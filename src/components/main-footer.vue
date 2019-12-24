@@ -2,7 +2,7 @@
   <section class="Footer-wrap">
     <footer class="footer-inner">
       <p>blog.caoxin.net - 鑫博客 Copyright&copy; Author曹鑫 122368177@qq.com</p>
-      <p><a href="http://www.miit.gov.cn" target="_blank">-备案号：备案中。。。</a></p>
+      <p><a href="http://www.miit.gov.cn" target="_blank">-苏ICP备19072698号</a></p>
     </footer>
   </section>
 </template>
