@@ -30,7 +30,7 @@
       <div class="sidebar-box-content">
         <ul>
           <li class="sidebar-box-content-item">
-            <a href="https://github.com/liangfengbo" target="_blank">
+            <a href="https://github.com/Cvitas/blog-web" target="_blank">
               <div>
                 <Icon class="icon" type="logo-github"/>
                 Github

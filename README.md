@@ -24,7 +24,7 @@
 ## 安装及快速开始
 ```
 # 克隆项目
-$ git clone https://github.com/liangfengbo/vue-cli3-template
+$ git clone https://github.com/Cvitas/blog-web.git
 
 # 进入目录
 $ cd vue-cli3-template
@@ -34,9 +34,6 @@ $ yarn install
 
 # 启动项目
 $ yarn serve
-
-# 依赖包 Dll 打包
-$ yarnr run dll
 
 # 项目构建打包
 $ yarn run build
@@ -51,11 +48,5 @@ $ yarn run lint
 $ yarn run test:unit
 ```
 
-## FAQ
-1. 没有yarn环境，npm 可以吗？ 
-> 答：可以的，建议使用 yarn，yarn 比 npm 速度快，主要是安装版本统一。
-2. vue.config.js 里面的一些配置可以不需要吗？或者我新增一些配置可以吗？
-> 答：可以的，你可以根据你的实际需要进行修改或增删配置的，比如你不需要 开启 Gizp 压缩，你在 vue.config.js 里面删除 开启gzip 内容即可。且 env 文件, 代理服务器的接口或转发路径，这些肯定需要改为你实际开发中的接口路径的。
-3. ... 更多问题请到 [Issues](https://github.com/liangfengbo/vue-cli3-template/issues)查阅，或者有问题请到 [Issues 提问](https://github.com/liangfengbo/vue-cli3-template/issues/new)，我会及时回复的，如果对你有帮助，请你点个 star 鼓励一下，谢谢！共勉！
 ### MIT
-[@梁凤波](https://github.com/liangfengbo/vue-cli3-template/blob/master/LICENSE)
+感谢作者[@梁凤波](https://github.com/liangfengbo/vue-cli3-template/blob/master/LICENSE)
